@@ -1,0 +1,3 @@
+FetchBlobFileInfo\FetchBlobFileInfo.exe
+FetchS3FileInfo\FetchS3FileInfo.exe
+ValidateCopiedFileLength\ValidateCopiedFileLength.exe
