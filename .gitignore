@@ -1,6 +1,10 @@
 .vs
 .vscode
 *.cache
+*.pdb
 **/bin
 **/obj
 **/packages
+**/publish
+**/log
+**/output
